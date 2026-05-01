@@ -1,0 +1,169 @@
+
+7-Zip (z) 24.09 (arm64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+ 64-bit arm_v:8-A locale=C.UTF-8 Threads:8 OPEN_MAX:32768
+
+Scanning the drive for archives:
+1 file, 98965961 bytes (95 MiB)
+
+Listing archive: /sdcard/0.7z
+
+--
+Path = /sdcard/0.7z
+Type = 7z
+Physical Size = 98965961
+Headers Size = 3296
+Method = LZMA2:48m
+Solid = -
+Blocks = 133
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2025-02-11 13:54:08 D....            0            0  AIK-Linux
+2020-05-20 13:07:25 D....            0            0  AIK-Linux/bin
+2017-06-17 02:06:25 D....            0            0  AIK-Linux/bin/avb
+2017-02-19 22:18:32 D....            0            0  AIK-Linux/bin/chromeos
+2017-12-08 18:32:47 D....            0            0  AIK-Linux/bin/linux
+2021-05-06 02:53:42 D....            0            0  AIK-Linux/bin/linux/i686
+2021-05-06 02:53:42 D....            0            0  AIK-Linux/bin/linux/x86_64
+2017-12-12 23:57:38 D....            0            0  AIK-Linux/bin/macos
+2021-05-06 02:53:42 D....            0            0  AIK-Linux/bin/macos/i386
+2021-05-06 02:53:42 D....            0            0  AIK-Linux/bin/macos/x86_64
+2025-02-11 13:44:10 D....            0            0  AIK-Linux/ramdisk
+2025-02-11 13:44:10 D....            0            0  AIK-Linux/split_img
+2024-12-01 10:43:47 D....            0            0  Audio
+2025-01-11 11:41:19 D....            0            0  astro
+2025-01-21 23:46:20 ....A          128           91  .bash_history
+2025-01-21 23:48:32 ....A           74           46  .python_history
+2020-06-18 10:16:48 ....A        53702        50019  5_6129689445525356678.pdf
+2025-02-16 15:34:06 ....A         1193          520  7z_list.txt
+2025-01-25 17:58:52 ....A          199          145  7zip_index_gui.py
+2025-02-16 15:31:15 ....A         5968         1614  7zip_python_cli.py
+2021-05-03 05:51:45 ....A         2458         1043  AIK-Linux/authors.txt
+2021-05-05 14:19:49 ....A         3722         1188  AIK-Linux/bin/androidbootimg.magic
+2017-06-17 00:38:15 ....A         1219         1223  AIK-Linux/bin/avb/verity.pk8
+2017-06-17 00:38:15 ....A         1444          964  AIK-Linux/bin/avb/verity.x509.pem
+2021-04-28 05:32:23 ....A      1704936      1507126  AIK-Linux/bin/boot_signer.jar
+2008-02-29 13:03:46 ....A            1            5  AIK-Linux/bin/chromeos/empty
+2008-02-29 13:03:46 ....A         1208         1169  AIK-Linux/bin/chromeos/kernel.keyblock
+2008-02-29 13:03:46 ....A         1199         1203  AIK-Linux/bin/chromeos/kernel_data_key.vbprivk
+2017-04-30 23:49:06 ....A        12796         5419  AIK-Linux/bin/linux/i686/blobpack
+2017-04-30 23:49:04 ....A        14253         5851  AIK-Linux/bin/linux/i686/blobunpack
+2017-12-13 22:43:31 ....A         8348         4359  AIK-Linux/bin/linux/i686/dhtbsign
+2021-05-06 01:07:43 ....A      2024028       716180  AIK-Linux/bin/linux/i686/dumpimage
+2018-03-17 22:05:45 ....A        14148         6436  AIK-Linux/bin/linux/i686/elftool
+2018-05-18 23:00:27 ....A      1355800       470720  AIK-Linux/bin/linux/i686/futility
+2017-01-26 02:18:45 ....A        19294         7509  AIK-Linux/bin/linux/i686/loki_tool
+2021-04-27 10:27:50 ....A       136952        55934  AIK-Linux/bin/linux/i686/lz4
+2019-09-21 09:38:31 ....A         9440         4556  AIK-Linux/bin/linux/i686/mboot
+2021-04-27 09:43:57 ....A        18388         7731  AIK-Linux/bin/linux/i686/mkbootimg
+2021-05-06 01:07:43 ....A      2059804       730540  AIK-Linux/bin/linux/i686/mkimage
+2017-12-13 22:41:40 ....A         6332         2901  AIK-Linux/bin/linux/i686/mkmtkhdr
+2021-04-27 09:44:12 ....A        10660         4793  AIK-Linux/bin/linux/i686/pxa-mkbootimg
+2021-04-27 09:44:14 ....A         8404         3768  AIK-Linux/bin/linux/i686/pxa-unpackbootimg
+2017-08-29 07:59:04 ....A         5748         3257  AIK-Linux/bin/linux/i686/rkcrc
+2019-11-03 16:42:24 ....A       816508       316500  AIK-Linux/bin/linux/i686/sony_dump
+2021-04-27 09:43:59 ....A        10880         5023  AIK-Linux/bin/linux/i686/unpackbootimg
+2021-04-27 09:44:21 ....A         8296         3789  AIK-Linux/bin/linux/i686/unpackelf
+2017-04-30 23:49:12 ....A        15945         5476  AIK-Linux/bin/linux/x86_64/blobpack
+2017-04-30 23:49:10 ....A        17154         5911  AIK-Linux/bin/linux/x86_64/blobunpack
+2017-12-13 22:53:21 ....A        11280         4904  AIK-Linux/bin/linux/x86_64/dhtbsign
+2021-05-06 01:36:29 ....A      2326800       909162  AIK-Linux/bin/linux/x86_64/dumpimage
+2018-03-17 22:06:03 ....A        16376         6375  AIK-Linux/bin/linux/x86_64/elftool
+2018-05-18 23:01:26 ....A      1538632       638945  AIK-Linux/bin/linux/x86_64/futility
+2017-01-26 02:19:12 ....A        20761         7076  AIK-Linux/bin/linux/x86_64/loki_tool
+2021-04-27 10:28:26 ....A       128168        55053  AIK-Linux/bin/linux/x86_64/lz4
+2019-09-21 09:39:46 ....A        12112         4914  AIK-Linux/bin/linux/x86_64/mboot
+2021-04-27 09:44:47 ....A        20536         7983  AIK-Linux/bin/linux/x86_64/mkbootimg
+2021-05-06 01:36:29 ....A      2359376       922396  AIK-Linux/bin/linux/x86_64/mkimage
+2017-12-13 22:51:27 ....A         7704         2824  AIK-Linux/bin/linux/x86_64/mkmtkhdr
+2021-04-27 09:45:03 ....A        12624         4972  AIK-Linux/bin/linux/x86_64/pxa-mkbootimg
+2021-04-27 09:45:04 ....A         9960         3710  AIK-Linux/bin/linux/x86_64/pxa-unpackbootimg
+2017-08-29 07:59:07 ....A         7312         3322  AIK-Linux/bin/linux/x86_64/rkcrc
+2019-11-03 16:42:26 ....A       988096       349073  AIK-Linux/bin/linux/x86_64/sony_dump
+2021-04-27 09:44:49 ....A        12216         4791  AIK-Linux/bin/linux/x86_64/unpackbootimg
+2021-04-27 09:45:17 ....A         9248         3816  AIK-Linux/bin/linux/x86_64/unpackelf
+2017-12-13 23:04:04 ....A         9064         1916  AIK-Linux/bin/macos/i386/blobpack
+2017-12-13 23:04:02 ....A         9296         2076  AIK-Linux/bin/macos/i386/blobunpack
+2017-02-06 21:48:23 ....A       154364        59539  AIK-Linux/bin/macos/i386/cpio
+2020-03-27 00:32:20 ....A        86688        34606  AIK-Linux/bin/macos/i386/dd
+2017-12-13 23:04:22 ....A        13124         3601  AIK-Linux/bin/macos/i386/dhtbsign
+2021-05-06 02:15:42 ....A      1014900       365661  AIK-Linux/bin/macos/i386/dumpimage
+2018-03-17 22:06:27 ....A        22148         5982  AIK-Linux/bin/macos/i386/elftool
+2021-04-11 17:54:49 ....A        28060         7066  AIK-Linux/bin/macos/i386/file
+2018-05-18 23:03:03 ....A       712180       251990  AIK-Linux/bin/macos/i386/futility
+2020-07-20 12:05:48 ....A      1040324       540456  AIK-Linux/bin/macos/i386/libiconv.2.dylib
+2019-05-10 08:12:05 ....A        49348        17024  AIK-Linux/bin/macos/i386/libintl.8.dylib
+2020-03-26 23:21:27 ....A       141364        66685  AIK-Linux/bin/macos/i386/liblzma.5.dylib
+2017-03-02 05:39:15 ....A       106468        28399  AIK-Linux/bin/macos/i386/liblzo2.2.dylib
+2021-04-11 17:48:27 ....A       136404        58393  AIK-Linux/bin/macos/i386/libmagic.1.dylib
+2017-12-13 23:04:38 ....A        17336         5645  AIK-Linux/bin/macos/i386/loki_tool
+2021-04-27 10:29:45 ....A       208180        82057  AIK-Linux/bin/macos/i386/lz4
+2017-08-18 01:10:34 ....A        70580        26395  AIK-Linux/bin/macos/i386/lzop
+2019-09-21 09:42:10 ....A        13324         3773  AIK-Linux/bin/macos/i386/mboot
+2021-04-27 09:46:41 ....A        21848         6772  AIK-Linux/bin/macos/i386/mkbootimg
+2021-05-06 02:15:42 ....A      1048004       379443  AIK-Linux/bin/macos/i386/mkimage
+2017-12-13 23:02:12 ....A        13268         2275  AIK-Linux/bin/macos/i386/mkmtkhdr
+2021-04-27 09:47:18 ....A        17484         4209  AIK-Linux/bin/macos/i386/pxa-mkbootimg
+2021-04-27 09:47:23 ....A        13120         3416  AIK-Linux/bin/macos/i386/pxa-unpackbootimg
+2017-12-13 23:04:26 ....A         8948         2824  AIK-Linux/bin/macos/i386/rkcrc
+2019-11-03 16:42:40 ....A       153500        66143  AIK-Linux/bin/macos/i386/sony_dump
+2020-03-27 00:32:20 ....A        80896        32684  AIK-Linux/bin/macos/i386/tail
+2020-03-27 00:32:21 ....A        62244        23422  AIK-Linux/bin/macos/i386/truncate
+2021-04-27 09:46:47 ....A        17524         4308  AIK-Linux/bin/macos/i386/unpackbootimg
+2021-04-27 09:47:43 ....A        13328         3673  AIK-Linux/bin/macos/i386/unpackelf
+2020-03-26 23:21:28 ....A        78588        27555  AIK-Linux/bin/macos/i386/xz
+2017-12-13 23:13:20 ....A         9160         1960  AIK-Linux/bin/macos/x86_64/blobpack
+2017-12-13 23:13:18 ....A         9424         2031  AIK-Linux/bin/macos/x86_64/blobunpack
+2016-02-21 23:22:20 ....A       172504        61306  AIK-Linux/bin/macos/x86_64/cpio
+2020-03-10 19:19:46 ....A        87664        34109  AIK-Linux/bin/macos/x86_64/dd
+2017-12-13 23:13:35 ....A        13220         3578  AIK-Linux/bin/macos/x86_64/dhtbsign
+2021-05-06 02:48:43 ....A      1371352       556917  AIK-Linux/bin/macos/x86_64/dumpimage
+2018-03-17 22:06:44 ....A        18224         5825  AIK-Linux/bin/macos/x86_64/elftool
+2019-12-21 23:29:28 ....A        28376         7102  AIK-Linux/bin/macos/x86_64/file
+2018-05-18 23:04:25 ....A       963752       422324  AIK-Linux/bin/macos/x86_64/futility
+2019-05-22 06:41:30 ....A      1079096       536044  AIK-Linux/bin/macos/x86_64/libiconv.2.dylib
+2019-05-10 08:11:22 ....A        54024        17399  AIK-Linux/bin/macos/x86_64/libintl.8.dylib
+2020-03-27 01:24:20 ....A       158868        68119  AIK-Linux/bin/macos/x86_64/liblzma.5.dylib
+2017-03-06 00:11:13 ....A       123600        27238  AIK-Linux/bin/macos/x86_64/liblzo2.2.dylib
+2019-12-21 23:23:15 ....A       132696        55002  AIK-Linux/bin/macos/x86_64/libmagic.1.dylib
+2017-12-13 23:13:53 ....A        17428         5671  AIK-Linux/bin/macos/x86_64/loki_tool
+2021-04-27 10:30:59 ....A       217072        84022  AIK-Linux/bin/macos/x86_64/lz4
+2017-08-18 01:10:29 ....A        75688        27493  AIK-Linux/bin/macos/x86_64/lzop
+2019-09-21 09:44:29 ....A        13432         3803  AIK-Linux/bin/macos/x86_64/mboot
+2021-04-27 09:48:19 ....A        22008         6563  AIK-Linux/bin/macos/x86_64/mkbootimg
+2021-05-06 02:48:43 ....A      1400344       571244  AIK-Linux/bin/macos/x86_64/mkimage
+2017-12-13 23:11:28 ....A        13368         2308  AIK-Linux/bin/macos/x86_64/mkmtkhdr
+2021-04-27 09:49:03 ....A        17600         4091  AIK-Linux/bin/macos/x86_64/pxa-mkbootimg
+2021-04-27 09:49:08 ....A        13220         3328  AIK-Linux/bin/macos/x86_64/pxa-unpackbootimg
+2017-12-13 23:13:39 ....A        13100         2927  AIK-Linux/bin/macos/x86_64/rkcrc
+2019-11-03 16:42:36 ....A       165880        68331  AIK-Linux/bin/macos/x86_64/sony_dump
+2020-03-10 19:19:47 ....A        81584        32827  AIK-Linux/bin/macos/x86_64/tail
+2020-03-10 19:19:47 ....A        62736        23438  AIK-Linux/bin/macos/x86_64/truncate
+2021-04-27 09:48:25 ....A        17648         4335  AIK-Linux/bin/macos/x86_64/unpackbootimg
+2021-04-27 09:49:25 ....A        13440         3607  AIK-Linux/bin/macos/x86_64/unpackelf
+2020-03-27 01:24:21 ....A        79504        27294  AIK-Linux/bin/macos/x86_64/xz
+2021-04-28 23:19:27 ....A        64797        20612  AIK-Linux/bin/magic
+2020-05-20 13:08:35 ....A          909          576  AIK-Linux/cleanup.sh
+2024-05-30 05:30:40 ....A     48211968     24775175  AIK-Linux/recovery.img
+2021-04-28 04:18:27 ....A        13631         4004  AIK-Linux/repackimg.sh
+2025-02-11 13:44:10 ....A            9           13  AIK-Linux/split_img/recovery.img-origsize
+2013-02-15 17:54:30 ....A       580899       233869  AIK-Linux/unmkbootimg
+2021-04-28 04:32:24 ....A        11556         3413  AIK-Linux/unpackimg.sh
+2020-06-18 09:10:14 ....A      4998026      4816175  Audio/01 - Aankhon Ki Gustakhiyan(Zgana.in).mp3
+2020-06-18 09:10:16 ....A      8117455      7992680  Audio/01 Jab pyaar kiya too darna kya  mughl e azam [ Mp3oldsongs.In ].mp3
+2020-06-18 09:10:14 ....A      2438792      2348184  Audio/017-Shiv Swagat Aaj Tumhara.mp3
+2020-06-18 09:10:16 ....A      4593371      4545392  Audio/021-Shiv Jaynti Fir Aayi Hai.mp3
+2020-06-18 09:10:14 ....A      6153376      5920768  Audio/03 - Dholi Taro Dhol Baaje(Zgana.in).mp3
+2020-06-18 09:10:14 ....A      5720623      5579924  Audio/07 - Jhoka Hawa Ka(Zgana.in).mp3
+2020-06-18 09:10:12 ....A      3235005      3149583  Audio/Albela_Saajan_(Bestwap.in).mp3
+2020-06-18 09:10:14 ....A      5592711      5484235  Audio/Chand_Chuppa_(Bestwap.in) (1).mp3
+2020-06-18 09:10:12 ....A      6046196      5934776  Audio/Dholi_Taaro_(Bestwap.in).mp3
+2020-06-18 09:10:12 ....A      4897731      4748028  Audio/Likewap.in_(Ek_Radha_Ek_Meera).mp3
+2020-06-18 09:10:14 ....A      5165225      4953498  Audio/Likewap.in_(Husn_Pahadon_Ka).mp3
+2024-02-26 07:09:01 ....A      1248253       604256  astro/bootanimation.gif
+2024-02-26 07:09:01 ....A       237389       115708  astro/bootanimation.mp4
+2025-01-11 11:41:19 ....A       197921       174364  astro/examinationservices.nic.in_jeemain2025_DownloadAdmitCard_frmAuthforCity.PDF
+2008-12-31 20:30:00 ....A            5            9  astro/lcd_density.txt
+2024-02-26 07:12:41 ....A     23615181      5906874  astro/shutdownanimation.mp4
+------------------- ----- ------------ ------------  ------------------------
+2025-02-16 15:34:06          158780775     98962665  133 files, 14 folders
